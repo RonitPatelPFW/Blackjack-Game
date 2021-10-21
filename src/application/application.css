@@ -1,0 +1,10 @@
+.root{
+	-fx-background-color: forestgreen;
+}
+
+.label {
+   -fx-font-size: 14pt;
+   -fx-text-fill: white;
+   -fx-text-weight: bold;
+}
+
